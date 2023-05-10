@@ -44,7 +44,7 @@ public class MainFrame extends JFrame {
         setVisible(true);
 
 
-        puerto = new Puerto();
+        puerto = new Puerto();//
 
         btnApilar.addActionListener(new ActionListener() {
             @Override
