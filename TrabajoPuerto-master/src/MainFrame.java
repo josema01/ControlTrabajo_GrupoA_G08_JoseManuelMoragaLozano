@@ -1,5 +1,7 @@
 
-
+/*
+Jose Manuel Moraga Lozano Grupo 08
+ */
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
